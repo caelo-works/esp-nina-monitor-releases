@@ -1,12 +1,12 @@
 {
   "targets": {
     "jc4880p443c": {
-      "version": "0.4.3",
-      "url": "https://github.com/caelo-works/esp-nina-monitor-releases/releases/download/v0.4.3/panel-jc4880p443c-0.4.3.bin"
+      "version": "0.4.4",
+      "url": "https://github.com/caelo-works/esp-nina-monitor-releases/releases/download/v0.4.4/panel-jc4880p443c-0.4.4.bin"
     },
     "esp32-8048s070": {
-      "version": "0.4.3",
-      "url": "https://github.com/caelo-works/esp-nina-monitor-releases/releases/download/v0.4.3/panel-esp32-8048s070-0.4.3.bin"
+      "version": "0.4.4",
+      "url": "https://github.com/caelo-works/esp-nina-monitor-releases/releases/download/v0.4.4/panel-esp32-8048s070-0.4.4.bin"
     }
   }
 }
